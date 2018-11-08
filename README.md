@@ -32,6 +32,7 @@
 
 #### Planning
 - [ ] Define grid system
+- [ ] Config design system
 - [ ] Create Hero structure (SkeletonScreen, ErrorScreen)
 - [ ] Create Slider structure (SkeletonScreen, ErrorScreen)
 - [ ] Create TypeInfo structure (SkeletonScreen, ErrorScreen)
