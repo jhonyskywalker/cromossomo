@@ -50,6 +50,7 @@
 - [ ] StoryBook
 - [ ] Config bundle analyzer
 - [ ] Config manifest
+- [ ] Config Docker (Project, MockApi, StoryBook)
 
 #### Bonus
 - [ ] Show more TypeInfo
