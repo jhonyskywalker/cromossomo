@@ -6,7 +6,8 @@
     "start": "webpack-dev-server --watch --progress --mode development",
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "lint": "eslint --ext .jsx,.js src/"
+    "lint": "eslint --ext .jsx,.js src/",
+    "storybook": "start-storybook -p 9001 -c storybook"
   },
   "author": "jhonyskywalker",
   "license": "ISC",
@@ -15,6 +16,8 @@
     "@babel/core": "^7.1.5",
     "@babel/preset-env": "^7.1.5",
     "@babel/preset-react": "^7.0.0",
+    "@storybook/cli": "^4.0.4",
+    "@storybook/react": "^4.0.4",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.4",
     "babel-plugin-dynamic-import-webpack": "^1.1.0",
