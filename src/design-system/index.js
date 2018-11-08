@@ -7,7 +7,7 @@ export default {
       primary: font.family.montserrat,
       secondary: font.family.roboto,
     },
-    sizes: {
+    size: {
       xs: '10px',
       s: '14px',
       base: '16px',
